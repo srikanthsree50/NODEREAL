@@ -1,0 +1,316 @@
+
+<!DOCTYPE html>
+ <head>
+	<title>Kalyn Nakano</title>
+	  	<meta charset="UTF-8">
+		<meta name="description" content="Personal Website">
+		<meta name="keywords" content="kalyn nakano" />
+		<meta name="author" content="Kalyn Nakano" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0;">
+	  	<link href="css/style.css" rel="stylesheet">
+	    <link href='http://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Rokkitt|Open+Sans:300italic,400italic,600italic,700italic,400,300,600,700' rel='stylesheet' type='text/css'> 
+		<link href='http://fonts.googleapis.com/css?family=Karla:400,400italic,700,700italic' rel='stylesheet' type='text/css'>   
+		<link href="dist/magnific-popup.css?v=0.9.8" rel="stylesheet" />
+	    <script>
+			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+			})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+			
+			ga('create', 'UA-41348693-1', 'kalynnakano.com');
+			ga('send', 'pageview');
+		</script> 
+	</head>
+	<body>
+		<!-- Navigation -->
+		<div id="toc-holder" class="toc-holder">
+			<a href="#" class="toc-link" id="toc-link"><span>&#9776;</span></a>
+			<ul id="toc" class="toc">
+				<li class="toc-h1"><a href="#about">About</a></li>
+				<li class="toc-h1"><a href="#resume">Résumé</a></li>
+				<li class="toc-h1"><a href="#work">Work</a></li>
+			</ul>
+		</div>
+
+		<div id="page-wrapper">
+			<!-- Header -->
+			<div id="header">
+				<div class="inner name"><a href="#illustration">Kalyn Nakano</a></div>
+				<div class ="nav">
+				<ul class="mobile-nav">
+				<li class="mobile-header"><a href="#about">About</a></li>
+				<li class="mobile-header"><a href="#resume">Resumé</a></li>
+				<li class="mobile-header"><a href="#work">Work</a></li></ul>
+				</div>
+			</div>
+			<!-- Essentials Illustration -->
+			<div id="illustration"><center><img src="img/big.png"></center></div>
+			<!-- About Me -->
+			<div id="about"><div class="inner">
+				<p>Hello, world! I'm a developer and designer.</p><br/><br/><br/>
+				<!-- Console -->
+					<div id="code">
+						<div id="console">
+							&gt; Kalyn.origin<br/>
+							<span class="answer">&nbsp;&nbsp;=&gt; "Palo Alto, CA"<br/><br/></span>
+							&gt; Kalyn.education<br/>
+							<span class="answer">&nbsp;&nbsp;=&gt; "University of Southern California"<br/><br/></span>
+							&gt; Kalyn.major<br/>
+							<span class="answer">&nbsp;&nbsp;=&gt; "Computer Science"<br/><br/></span>
+							&gt; Kalyn.expectedGraduation<br/>
+							<span class="answer">&nbsp;&nbsp;=&gt; "May 2014"<br/><br/></span>
+							&gt; Kalyn.interests<br/>
+							<span class="answer">&nbsp;&nbsp;=&gt; ["Design", "Code", "coffee", "typography", "music", "bicycles", "brunch"]<br/><br/></span>
+							&gt; Kalyn.workExperience.latest<br/>
+							<span class="answer">&nbsp;&nbsp;=&gt; Latest Work Experience<br/>
+												 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; company: "IDEO"<br/>
+												 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; role: "Digital Shop Intern"<br/>
+												 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; startDate: "June 2013"<br/>
+												 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; endDate: "August 2013"<br/>
+							<br/></span>
+							&gt; Kalyn.resume<br/>
+							<span class="answer">&nbsp;&nbsp;=&gt; "<a target="_blank" href="kalynnakano.pdf">kalynnakano.pdf</a>"<br/><br/></span>
+							&gt; Kalyn.thoughts<br/>
+							<span class="answer">&nbsp;&nbsp;=&gt; ["<a target="_blank" href="http://www.twitter.com/kalynnakano">@kalynnakano</a>",
+								 "<a target="_blank" href="http://advancedsettings.tumblr.com">advancedsettings.tumblr.com</a>",
+								 "<a target="_blank" href="http://www.rdio.com/people/knakano/playlists/7112262/My_Brain/">rdio</a>"]<br/><br/></span>
+							&gt; Kalyn.email<br/>
+							<span class="answer">&nbsp;&nbsp;=&gt; "<a target="_blank" href="mailto:kalyn.nakano@gmail.com">kalyn.nakano@gmail.com</a>"<br/><br/></span>
+						</div>
+					</div>
+				</div>
+				<br/>
+			</div>
+			<!-- Résumé -->
+			<div id="resume"><div class="inner">
+				<p class="tagline">Résumé</p>
+				<!-- Résumé : Education -->
+				<p class="section-tagline" style="text-align:left;">Education</p>
+				<!-- Résumé : Education : USC -->
+				<p>
+					<a target="_blank" href="http://usc.edu"><img class="icon" src="img/companies/usc2.jpg"></a><b>University of Southern California</b>
+					<span class="right"><i>2010 - 2014</i></span><br/><b>Computer Science, B.S.</b>
+					<span class="right"><i>Los Angeles, CA</i></span><br/><br/>
+						Relevant Coursework:<br/>
+						<ul style="list-style:circle;">
+									<li>Fundamentals of Computer Programming</li>
+									<li>Object-Oriented Programming</li>
+									<li>Principles of Software Development</li>
+									<li>Discrete Methods in Computer Science</li> 
+									<li>Design and Analysis of Algorithms</li>
+									<li>Design for User Experience</li>
+									<li>Basic Organization of Computer Systems</li>
+									<li>Human Language and Technology</li>
+									<li>Mobile Application Development</li>
+									<li>Design and Construction of Large Software Systems</li>
+									<li>Operating Systems</li>
+									<li>File and Database Management</li>
+									<li>Advanced Web Technologies</li>
+									<li>Advanced Topics in Mobile App Development</li>
+									<li>3D Design and Prototyping</li>
+								</ul>
+					<span class="skill">C/C++</span><span class="skill">Java</span><span class="skill">Objective-C</span><span class="skill">Python</span><span class="skill">Git</span>
+				</p>
+				<br/>
+				<!-- Résumé : Education : Sorbonne -->
+				<p>
+					<a target="_blank" href="http://www.english.paris-sorbonne.fr/?"><img class="icon" src="img/companies/sorbonne.png"></a><b>Paris Sorbonne University</b>
+					<span class="right"><i>Spring 2013</i></span><br/>
+					<b>Study Abroad</b>
+					<span class="right"><i>Paris, FR</i></span><br/><br/>
+					Spent a semester studing art history, French, fashion and interior design in the 6th arrondissement of Paris. Additional recreational coursework
+					in French cooking, wine tasting, and cheese pairing.<br/><br/>
+					<span class="skill">Français</span><span class="skill">Airbnb-ing</span><span class="skill">L'art du pique-nique</span>
+				</p>
+				<br/>
+				<!-- Résumé : Education : Freestyle -->
+				<p>
+					<a target="_blank" href="http://www.freestyle.mvla.net/?"><img class="icon" src="img/companies/fcat.png"></a><b>Freestyle Academy of Communication Arts & Technology</b>
+					<span class="right"><i>2008-2010</i></span><br/>
+					<b>Web and Audio Engineering</b>
+					<span class="right"><i>Mountain View, CA</i></span><br/><br/>
+					Attended a special academy with an interdisciplinary curriculum in graphic design, digital photography, and creative writing. Specialized
+					in web and audio engineering.<br/><br/>
+					<span class="skill">HTML</span><span class="skill">CSS</span><span class="skill">JS</span><span class="skill design">Photoshop</span><span class="skill design">Illustrator</span><span class="skill design">InDesign</span><span class="skill design">AfterEffects</span><span class="skill design">Flash</span><span class="skill">ActionScript</span><span class="skill">Reason</span><span class="skill">ProTools</span>
+				</p>
+				<br/><br/>
+
+				<!-- Résumé : Work Experience -->
+				<p class="section-tagline" style="text-align:left;">Work Experience</p>
+
+				<!-- Résumé : Work Experience : IDEO -->
+				<p>
+					<a target="_blank" href="http://www.ideo.com"><img class="icon" src="img/companies/ideo-3.png"></a><b>IDEO</b>
+					<span class="right"><i>Summer 2013</i></span><br/>
+					<b>Digital Shop Intern</b>
+					<span class="right"><i>Palo Alto, CA</i></span><br/><br/>
+						Joined a team of product and software engineers within IDEO to 
+					design, prototype, build and ship digital products. Worked as both a designer and developer on a variety of internal and client projects.<br/><br/>
+					<span class="skill">HTML</span><span class="skill">SASS/CSS</span><span class="skill">CoffeeScript/JS</span><span class="skill">PHP</span><span class="skill">WordPress</span><span class="skill">Git</span><span class="skill design">Illustrator</span><span class="skill design">Photoshop</span>
+				</p>
+				<br/>
+				<!-- Résumé : Work Experience : Roski -->
+				<p>
+					<a target="_blank" href="http://roski.usc.edu"><img class="icon" src="img/companies/roski.png"></a><b>USC Roski School of Fine Arts</b>
+					<span class="right"><i>2012 - 2013</i></span><br/>
+					<b>Web Developer</b>
+					<span class="right"><i>Los Angeles, CA</i></span><br/><br/>
+						Responsible for maintaining the USC Roski School of Fine Arts website. Additionally worked on design and PHP/MySQL 
+						development for a new equipment rental web application used by all departments within the art school.<br/><br/>
+					<span class="skill">HTML</span><span class="skill">CSS</span><span class="skill">PHP</span><span class="skill">MySQL</span><span class="skill">Bootstrap</span>
+				</p>
+				<br/>
+				<!-- Résumé : Work Experience : Intuit -->
+				<p>
+					<a target="_blank" href="http://www.intuit.com"><img class="icon" src="img/companies/intuit.png"></a><b>Intuit</b>
+					<span class="right"><i>Summer 2012</i></span><br/>
+					<b>Experience Design Intern</b>
+					<span class="right"><i>San Diego, CA</i></span><br/><br/>
+						Working directly with designers, engineers, user researchers, and product managers to create, maintain, and transition the of?cial 
+						prototype for the new TurboTax 'Finish and File' experience into the real code base for TurboTax Online.<br/><br/>
+					<span class="skill">HTML</span><span class="skill">CSS</span><span class="skill">JS</span><span class="skill design">Photoshop</span>
+				</p>
+				<br/>
+				<!-- Résumé : Work Experience : Tricky Software -->
+				<p>
+					<a target="_blank" href="http://www.trickysoftware.com"><img class="icon" src="img/companies/tricky.png"></a><b>Tricky Software</b>
+					<span class="right"><i>Summer 2011</i></span><br/>
+					<b>Software Engineering Intern</b>
+					<span class="right"><i>Menlo Park, CA</i></span><br/><br/>
+						Experience designing and programming mobile games and applications for the iPhone and iPad. Worked on front-end for 
+						Emma the Inventor and UI for Crayola Color Studio, and company website.<br/><br/>
+					<span class="skill">HTML</span><span class="skill">CSS</span><span class="skill">PHP</span><span class="skill">Objective-C</span>
+					<span class="skill design">Illustrator</span>
+				</p>
+				<br/>
+				<!-- Résumé : Work Experience : UpTrending -->
+				<p>
+					<a target="_blank" href="http://www.uptrending.com"><img class="icon" src="img/companies/uptrending.png"></a><b>UpTrending, LLC</b>
+					<span class="right"><i>Summer 2011</i></span><br/>
+					<b>Web Designer and Developer</b>
+					<span class="right"><i>Palo Alto, CA</i></span><br/><br/>
+						Designing websites with a business minded approach and programming in front-end. Additional experience in SEO and Social 
+						Media campaigns, working directly with clients to build lasting online identities.<br/><br/>
+					<span class="skill">HTML</span><span class="skill">CSS</span><span class="skill">JS</span><span class="skill">WordPress</span><span class="skill design">Photoshop</span><span class="skill design">Illustrator</span>
+				</p>
+				<br/><br/><br/><br/>
+			</div></div>
+			<!-- Portfolio -->
+			<div id="work"><div class="inner">
+				<p class="tagline">Work + Fun</p>
+		
+				<div class="portfolio-thumb portfolio-big">
+					<a class="image-popup-no-margins" href="img/portfolio/happen.png"><img src="img/portfolio/happen.png"></a>
+					<p class="description"><b>Happen</b>&nbsp;&nbsp; A group project for our senior software design capstone class inspired by our collective frustration with current social media’s focus on making our backlogs public. We want to create a tool for people to make plans for the future with all interactions between users kept private. This will be a simple planning platform where users can keep a list of things they want to do and friends can ambiently express their interest by swiping “me too.” We expect further communication to take place outside the app and are interested in the simplicity of its humble feature set, and its potential to encourage offline communication and activity. Working as a designer and developer. Currently in development. 
+
+</p>
+				</div>
+				<div class="row">
+					<div class="portfolio-thumb">
+						<a class="image-popup-no-margins" href="img/portfolio/bike2.png"><img src="img/portfolio/bike2.png"></a>
+						<p class="description"><b>Illustrations</b>&nbsp;&nbsp; I like to draw things I like. My Schwinn ride pictured above.</p>
+					</div>
+					<div class="portfolio-thumb">
+						<a class="image-popup-no-margins" href="img/portfolio/labs2.png"><img src="img/portfolio/labs2.png"></a>
+						<p class="description"><b>IDEO Labs</b>&nbsp;&nbsp; Worked on front-end development of a wordpress theme designed for the new <a target="_blank" href="http://labs.ideo.com">IDEO Labs site</a>.</p>
+					</div>
+				</div>						
+				<div class="row">
+					<div class="portfolio-thumb">
+						<a class="image-popup-no-margins" href="img/portfolio/apollo2.png"><img src="img/portfolio/apollo2.png"></a>
+						<p class="description"><b>Apollo</b>&nbsp;&nbsp; An internal summer intern project at IDEO. Apollo is
+						 a searchable community of people tagged with rich psychographic data, curated to provide resolution and reach to companies looking
+						 for research candidates.
+						</p>
+					</div>
+					<div class="portfolio-thumb">
+						<a class="image-popup-no-margins" href="img/portfolio/xx_03.png"><img src="img/portfolio/xx_03.png"></a>
+						<p class="description"><b>Music Visualizer</b>&nbsp;&nbsp; Experimental summer
+						project using WebGL and Three.js with a beat detection algorithm to make an interactive 3D music visualization of album artwork using orbit controls. Play <a target="_blank" href="visualizer/xx.html">here</a>.</p>
+					</div>
+				</div>
+				<div class="row">
+					<div class="portfolio-thumb">
+						<a class="popup-vimeo" href="http://vimeo.com/41632558"><img src="img/portfolio/cube2.png"></a>
+						<p class="description"><b>LED Cube</b>&nbsp;&nbsp; Built with a friend as a final project for USC EE 201: Introduction to Digital Circuits. Constructed an 8x8x8 LED Cube three-dimensional display. Designed and wired the driver circuit board. Wrote application modules in Verilog to navigate the cube. </p>
+					</div>
+					<div class="portfolio-thumb">
+						<a class="image-popup-no-margins" href="img/portfolio/homefit.png"><img src="img/portfolio/homefit.png"></a>
+						<p class="description"><b>Homefit</b>&nbsp;&nbsp; Working with Executive Director of Digital Innovation at USC Viterbi School of Engineering, Ashish Soni, to research, conceptualize, wireframe, and design a new online tool for people looking to buy a home. </p></div>
+					</div>
+				</div>
+			</div></div>
+			<div  id ="footer"><div class="inner">
+				© 2013 Kalyn Nakano. 
+				<span class="right">
+					<a target="_blank" href="mailto:kalyn.nakano@gmail.com">Email</a>&nbsp;//&nbsp;
+					<a target="_blank" href="http://www.linkedin.com/pub/kalyn-nakano/33/344/376/">LinkedIn</a>&nbsp;//&nbsp;
+					<a target="_blank" href="http://www.twitter.com/kalynnakano">Twitter</a>
+				</span>
+			</div></div>
+		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+		<script src="js/jquery.fixedTOC.js?v=3.0"></script>
+		<script src="dist/jquery.magnific-popup.js?v=0.9.8"></script>
+		<script type="text/javascript">
+		 $(document).ready(function() {
+		        $('.image-popup-no-margins').magnificPopup({
+		          type: 'image',
+		          closeOnContentClick: true,
+		          closeBtnInside: false,
+		          fixedContentPos: true,
+		          mainClass: 'mfp-no-margins mfp-with-zoom', // Class to remove default margin from left and right side
+		          image: {
+		            verticalFit: true
+		          },
+		          zoom: {
+		            enabled: true,
+		            duration: 300 // Duration variable also in CSS
+		          }
+		        });
+
+		         $('.popup-youtube, .popup-vimeo, .popup-gmaps').magnificPopup({
+		          disableOn: 700,
+		          type: 'iframe',
+		          mainClass: 'mfp-fade',
+		          removalDelay: 160,
+		          preloader: false,
+
+		          fixedContentPos: false
+		        });
+
+		        $('.simple-ajax-popup-align-top').magnificPopup({
+		          type: 'ajax',
+		          alignTop: true,
+		          overflowY: 'scroll' // as we know that popup content is tall we set scroll overflow by default to avoid jump
+		        });
+
+		        $('.simple-ajax-popup').magnificPopup({
+		          type: 'ajax'
+		        });
+		      });
+		</script>
+		<script>
+		// call the plugin on the "#toc" element
+		$('#toc').fixedTOC({
+			menuOpens: 'click', // or 'mouseenter'
+			scrollSpeed: 1000,
+			menuSpeed: 300,
+			useSubMenus: false,
+			resetSubMenus: false,
+			topLinkWorks: true
+		});
+		</script>
+		<script>
+		  var _gaq = _gaq || [];
+		  _gaq.push(['_setAccount', 'UA-1965499-1']);
+		  _gaq.push(['_trackPageview']);
+
+		  (function() {
+		    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		  })();
+		</script>
+	</body>
+</html>

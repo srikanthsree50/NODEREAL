@@ -1,0 +1,31 @@
+{
+  "name": "restaurant-app",
+  "version": "1.0.0",
+  "description": "Restaurant app using MEAN stack (MongoDB-Express-AngularJS-NodeJS)",
+  "main": "www.js",
+  "scripts": {
+    "test": "mocha",
+    "dev": "SET NODE_ENV=development && nodemon ./bin/www.js",
+    "dev2": "nodemon ./bin/www.js"
+  },
+  "keywords": [
+    "MEAN",
+    "restaurant-api",
+    "javascript",
+    "web",
+    "application"
+  ],
+  "author": "srikarrao",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.11.0",
+    "tern-node-express": "^0.4.0"
+  },
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "helmet": "^3.6.0",
+    "rotating-file-stream": "^1.2.2",
+    "socket.io": "^2.0.1",
+    "winston": "^2.3.1"
+  }
+}
